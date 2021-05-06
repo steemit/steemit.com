@@ -130,7 +130,7 @@
     "redux-form": "5.3.4",
     "redux-saga": "0.16.0",
     "remarkable": "1.7.1",
-    "sanitize-html": "1.14.1",
+    "sanitize-html": "2.3.2",
     "sass-loader": "6.0.6",
     "secure-random": "1.1.1",
     "selection-position": "^1.0.0",
