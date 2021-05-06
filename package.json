@@ -29,7 +29,7 @@
     "@steemit/steem-js": "0.7.9",
     "assert": "1.4.1",
     "autoprefixer-loader": "3.2.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-cli": "6.26.0",
     "babel-core": "6.26.0",
     "babel-eslint": "6.1.2",
