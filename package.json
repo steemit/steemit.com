@@ -147,7 +147,7 @@
     "svg-inline-loader": "0.8.0",
     "svg-inline-react": "1.0.3",
     "svgo-loader": "1.2.1",
-    "swiper": "^6.1.2",
+    "swiper": "^6.5.1",
     "tronweb": "^3.0.0",
     "underscore.string": "3.3.5",
     "url-loader": "0.6.2",
